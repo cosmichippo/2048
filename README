@@ -1,0 +1,12 @@
+# 2048
+#Written by Juan-Fernando Morales in 2019
+
+Purpose:
+  Terminal version of 2048
+
+Runs in python 2.7
+
+Execute:
+run "python 2048.py" in terminal
+
+control using wasd, followed by enter key
